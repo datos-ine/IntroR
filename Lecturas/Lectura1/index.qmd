@@ -1,0 +1,49 @@
+---
+title: "Introducción a R"
+format:
+  html:
+    toc: true
+    toc-title: Contenido
+    html-math-method: katex
+    css: style.css
+    smooth-scroll: true
+theme: lumen
+lightbox: true
+editor: visual
+---
+
+::: {.callout-tip icon=false}
+## Objetivos de aprendizaje
+
+- Datos
+- Datos
+- Datos
+:::
+
+## Qué es R?
+
+El sitio oficial [r-project.org](https://www.r-project.org/) dice que *"R es un entorno de software libre para gráficos y computación estadística. Se compila y se ejecuta en una amplia variedad de plataformas UNIX, Windows y MacOS.".*
+
+Profundizando en su descripción podemos decir, más técnicamente, que es un ***lenguaje de programación interpretado, orientado a objetos, multiplataforma y open source aplicado al manejo de datos estadísticos.***
+
+A continuación detallamos cada parte de la definición:
+
+**R es un lenguaje de programación estadístico**
+
+Si bien posee un entorno y se puede utilizar como calculadora avanzada o para simulación, no deja de ser elementalmente un lenguaje de programación, con sus estructuras y reglas de sintaxis, que posee una gran variedad de funciones desarrolladas con fines estadísticos.
+
+**R es un lenguaje Orientado a Objetos**
+
+Implementa los conceptos de la programación orientada a objetos y esto le permite ofrecer simpleza y flexibilidad en el manejo de datos. En R todo con lo que trabajamos son objetos: las variables, funciones, datos, resultados, etc. que pueden ser modificados por otros objetos
+
+**R es un lenguaje interpretado**
+
+No es necesario compilar los scripts de programación para construir ejecutables sino que directamente se ejecutan por medio del intérprete que R instala y devuelve resultados de forma inmediata.
+
+**R es multiplataforma (corre en Linux, Windows y Mac)**
+
+Se puede instalar en diferentes sistemas operativos como Linux, Windows y Mac. En todos ellos funciona de la misma manera, es decir que nuestros scripts pueden correr en cualquier plataforma sin cambiar nada de ellos.
+
+**R es Open Source y se distribuye bajo licencia GNU - GPL**
+
+Esto quiere decir que se distribuye gratuitamente bajo licencia GNU (General Public License) -- GPL y que los usuarios tienen la libertad de usar, estudiar, compartir (copiar) y modificar el software.

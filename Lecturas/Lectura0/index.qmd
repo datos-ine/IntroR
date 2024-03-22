@@ -1,0 +1,50 @@
+---
+title: "Introducción a R"
+format:
+  html:
+    toc: true
+    toc-title: Contenido
+    html-math-method: katex
+    css: style.css
+    smooth-scroll: true
+theme: lumen
+lightbox: true
+editor: visual
+---
+
+## La era de los datos
+
+![](datos.png){width=500, fig-align="center"}
+
+Vivimos en la era digital inmersos en un universo tecnológico que avanza a una velocidad sin precedente en la historia de la humanidad.
+
+La política de datos abiertos promovida por gobiernos, empresas y organizaciones no gubernamentales y estos avances digitales exponenciales producen enormes cantidades de datos que se disponibilizan a diario.
+
+En la actualidad, lo dicho anteriormente no asegura que se los aproveche extrayendo toda la información útil o que esos datos sean confiables y tengan la calidad deseada.
+
+Por este motivo, las distintas disciplinas de la ciencia, incluída la epidemiología, tienen el desafío de incorporar en su formación transversal las habilidades de gestionar estos datos, saber analizarlos y comunicar eficazmente esa información extraída.
+
+## Ciencia de datos
+
+
+
+## Objetivos del curso
+
+## Enfoque comunicativo
+
+En este curso abordamos al lenguaje R como una lengua extranjera que usaremos para comunicarnos, por lo tanto, los estudiantes de este curso aspiran a convertirse en **usuarios** de este lenguaje en lugar de programadores (lo podrán hacer en el futuro si lo desean).
+
+La idea es que comencemos a **_"decir cosas con datos"_** para profundizar más adelante las estructuras del lenguaje. 
+
+En busca de emparentar al R con un lenguaje para comunicarnos intentaremos distinguir como componentes de su estructura: una **sintaxis**, una **semántica** y una **gramática**.
+
+::: {.callout-tip icon="false"}
+## Nota
+
+Para profundizar esta idea ver [“How to do things with words: Learning to program with a 'communicative approach'"](https://rstudio.com/resources/rstudioglobal-2021/how-to-do-things-with-words-learning-to-program-in-r-with-a-communicative-approach/) - presentación de Riva Quiroga en RStudio-2021.
+:::
+
+## Dificultades 
+
+
+
