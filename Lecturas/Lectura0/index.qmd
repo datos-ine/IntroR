@@ -14,7 +14,7 @@ editor: visual
 
 ## La era de los datos
 
-![](datos.png){width=500, fig-align="center"}
+![](datos.png){width="500," fig-align="center"}
 
 Vivimos en la era digital inmersos en un universo tecnológico que avanza a una velocidad sin precedente en la historia de la humanidad.
 
@@ -26,15 +26,13 @@ Por este motivo, las distintas disciplinas de la ciencia, incluída la epidemiol
 
 ## Ciencia de datos
 
-
-
 ## Objetivos del curso
 
 ## Enfoque comunicativo
 
 En este curso abordamos al lenguaje R como una lengua extranjera que usaremos para comunicarnos, por lo tanto, los estudiantes de este curso aspiran a convertirse en **usuarios** de este lenguaje en lugar de programadores (lo podrán hacer en el futuro si lo desean).
 
-La idea es que comencemos a **_"decir cosas con datos"_** para profundizar más adelante las estructuras del lenguaje. 
+La idea es que comencemos a ***"decir cosas con datos"*** para profundizar más adelante las estructuras del lenguaje.
 
 En busca de emparentar al R con un lenguaje para comunicarnos intentaremos distinguir como componentes de su estructura: una **sintaxis**, una **semántica** y una **gramática**.
 
@@ -44,7 +42,4 @@ En busca de emparentar al R con un lenguaje para comunicarnos intentaremos disti
 Para profundizar esta idea ver [“How to do things with words: Learning to program with a 'communicative approach'"](https://rstudio.com/resources/rstudioglobal-2021/how-to-do-things-with-words-learning-to-program-in-r-with-a-communicative-approach/) - presentación de Riva Quiroga en RStudio-2021.
 :::
 
-## Dificultades 
-
-
-
+## Dificultades
