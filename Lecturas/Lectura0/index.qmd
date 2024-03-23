@@ -3,6 +3,7 @@ title: "Introducción a R"
 format:
   html:
     toc: true
+    toc-depth: 2
     toc-title: Contenido
     html-math-method: katex
     css: style.css
@@ -25,6 +26,16 @@ En la actualidad, lo dicho anteriormente no asegura que se los aproveche extraye
 Por este motivo, las distintas disciplinas de la ciencia, incluída la epidemiología, tienen el desafío de incorporar en su formación transversal las habilidades de gestionar estos datos, saber analizarlos y comunicar eficazmente esa información extraída.
 
 ## Ciencia de datos
+
+La ciencia de datos es una disciplina relativamente nueva que combina el método científico, la estadística, las matemáticas y la informática, para obtener valor de los datos.
+
+Se utiliza en una amplia variedad de áreas lo que le ortorga una naturaleza transdisciplinaria que le agrega cierta complejidad relacionada a cada dominio de la ciencia donde se aplica.
+
+De esta manera, la ciencia de datos va adoptando paradigmas y constructos propios del campo sustantivo en el que se ejerce, en nuestro caso la epidemiología.
+
+## R para ciencia de datos en epidemiología
+
+
 
 ## Objetivos del curso
 
