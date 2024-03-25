@@ -1,9 +1,9 @@
 ---
 title: "Introducción a R"
+subtitle: "Contexto y motivación"
 format:
   html:
     toc: true
-    toc-depth: 2
     toc-title: Contenido
     html-math-method: katex
     css: style.css
@@ -38,11 +38,30 @@ El análisis de datos epidemiológicos requiere herramientas avanzadas. Si bien 
 ::: {.callout-tip icon="false"}
 ##  <br>
 
-Cabe destacar que los lenguajes de programación son **herramientas** que no reemplazan los procesos de decisiones metodológicas ni evidencian automáticamente los errores o incoherencias de los análisis.
+Cabe destacar que los lenguajes como R son **herramientas** que no reemplazan los procesos de decisiones metodológicas ni evidencian automáticamente los errores o incoherencias de los análisis.
 :::
 
+## Sobre este curso
 
-## Enfoque comunicativo
+En este curso autogestionado se combinarán clases teóricas con ejercicios prácticos y actividades de análisis de datos reales. En las clases teóricas (diapositivas explicadas en videos y lecturas on-line) se presentarán conceptos del lenguaje y de gestión de datos. 
+
+En las clases prácticas, los estudiantes aplicarán los conocimientos adquiridos a través de ejercicios para posteriormente pasar a su evaluación. Estas prácticas se llevaran a cabo en forma on-line con *Google Colaboratory* y localmente a través de *RStudio*.
+
+También contaremos con tutoriales de instalación y otros recursos multimedia complementarios que nos ayudaran en el trayecto.
+
+::: {.callout-tip icon="false"}
+## A tener en cuenta...
+
+La curva de aprendizaje del lenguaje R tiene mayor dificultad que un software de ventanas, ya que se basa en expresiones y funciones con una sintaxis estricta que hay que ejecutar desde *scripts* (archivos de código). Aconsejamos tener paciencia, dedicación y practicar mucho. 
+
+:::
+
+#### ¿A quién está dirigido?
+
+El curso está dirigido a estudiantes, profesionales y trabajadores de la salud que buscan iniciar el desarrollo de habilidades en análisis de datos epidemiológicos con R. No se requieren conocimientos previos de programación pero si manejo adecuado de computadoras con sistema operativo Windows (gestión de carpetas y archivos, instalación de software, etc).
+
+
+#### Enfoque comunicativo
 
 En este curso abordaremos al lenguaje R como una lengua extranjera que usaremos, en este caso, para comunicarnos con la computadora. Por lo tanto, los estudiantes aspiran a convertirse en **usuarios** de este lenguaje en lugar de programadores (aunque podrán hacerlo en el futuro si lo desean).
 
@@ -57,29 +76,13 @@ En busca de emparentar al R con un lenguaje de comunicación, intentaremos disti
 **Gramática:** El conjunto de reglas que gobiernan la estructura de las *"oraciones"*. (con el aporte del **tidyverse** y las tuberías).
 
 ::: {.callout-tip icon="false"}
+
 ## Enlace
 
 Para profundizar esta idea ver [“How to do things with words: Learning to program with a 'communicative approach'"](https://rstudio.com/resources/rstudioglobal-2021/how-to-do-things-with-words-learning-to-program-in-r-with-a-communicative-approach/) - presentación de Riva Quiroga en RStudio-2021 (*audio en inglés con subtítulos en español*).
 :::
 
-## Sobre este curso
 
-En este curso autogestionado se combinarán clases teóricas con ejercicios prácticos y actividades de análisis de datos reales. En las clases teóricas (diapositivas explicadas en videos y lecturas on-line) se presentarán conceptos del lenguaje y de gestión de datos. 
-
-En las clases prácticas, los estudiantes aplicarán los conocimientos adquiridos a través de ejercicios para posteriormente pasar a su evaluación. Estas prácticas se llevaran a cabo en forma on-line con *Google Colaboratory* y localmente a través de *RStudio*.
-
-También contaremos con tutoriales de instalación y otros recursos multimedia complementarios que nos ayudaran en el trayecto.
-
-::: {.callout-tip icon="false"}
-## A tener en cuenta...
-
-La curva de aprendizaje del lenguaje R tiene mayor dificultad que un software de ventanas, ya que el uso de R se basa en expresiones y funciones con una sintaxis estricta que hay que ejecutar desde scripts (archivos de código). Aconsejamos tener paciencia, dedicación y practicar mucho. 
-
-:::
-
-### ¿A quién está dirigido?
-
-El curso está dirigido a estudiantes, profesionales y trabajadores de la salud que buscan iniciar el desarrollo de habilidades en análisis de datos epidemiológicos con R. No se requieren conocimientos previos de programación pero si de un manejo adecuado de computadoras con sistema operativo Windows (gestión de carpetas y archivos, instalación de software, etc).
 
 
 ## Bibliografía y recursos
@@ -107,5 +110,3 @@ El curso está dirigido a estudiantes, profesionales y trabajadores de la salud 
 
 
 Esperamos que este curso te ayude a desarrollar las habilidades necesarias para convertirte en un usuario eficaz de R para el análisis de datos epidemiológicos.
-
-¡Te invitamos a participar!
