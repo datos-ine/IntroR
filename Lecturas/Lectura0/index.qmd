@@ -17,40 +17,95 @@ editor: visual
 
 ![](datos.png){width="500," fig-align="center"}
 
-Vivimos en la era digital inmersos en un universo tecnológico que avanza a una velocidad sin precedente en la historia de la humanidad.
+Vivimos en la era digital, inmersos en un universo tecnológico que avanza a un ritmo sin precedentes en la historia de la humanidad. La política de datos abiertos, impulsada por gobiernos, empresas y organizaciones no gubernamentales, junto con estos avances digitales exponenciales, generan un volumen enorme de datos que se publican a diario.
 
-La política de datos abiertos promovida por gobiernos, empresas y organizaciones no gubernamentales y estos avances digitales exponenciales producen enormes cantidades de datos que se disponibilizan a diario.
-
-En la actualidad, lo dicho anteriormente no asegura que se los aproveche extrayendo toda la información útil o que esos datos sean confiables y tengan la calidad deseada.
-
-Por este motivo, las distintas disciplinas de la ciencia, incluída la epidemiología, tienen el desafío de incorporar en su formación transversal las habilidades de gestionar estos datos, saber analizarlos y comunicar eficazmente esa información extraída.
+Sin embargo, la disponibilidad de datos no asegura su aprovechamiento, ni la extracción de toda la información útil. Tampoco garantiza su confiabilidad y calidad. Es por ello que las distintas disciplinas científicas, incluida la epidemiología, tienen el desafío de incorporar en su formación transversal las habilidades para gestionar estos datos, analizarlos y comunicar eficazmente la información extraída.
 
 ## Ciencia de datos
 
-La ciencia de datos es una disciplina relativamente nueva que combina el método científico, la estadística, las matemáticas y la informática, para obtener valor de los datos.
+La ciencia de datos emerge como una disciplina clave para abordar este desafío. Combinando el método científico, la estadística, las matemáticas y la informática, permite obtener valor de los datos y transformarlos en conocimiento útil.
 
-Se utiliza en una amplia variedad de áreas lo que le ortorga una naturaleza transdisciplinaria que le agrega cierta complejidad relacionada a cada dominio de la ciencia donde se aplica.
+Su naturaleza *transdisciplinaria* la convierte en una herramienta poderosa adaptable a diversos campos, adoptando los paradigmas y constructos propios de cada disciplina. En el caso de la epidemiología, la ciencia de datos abre nuevas posibilidades para el tratamiento y análisis de datos que aporta a la vigilancia e investigación en salud.
 
-De esta manera, la ciencia de datos va adoptando paradigmas y constructos propios del campo sustantivo en el que se ejerce, en nuestro caso la epidemiología.
 
 ## R para ciencia de datos en epidemiología
 
+El análisis de datos epidemiológicos requiere herramientas avanzadas. Si bien existen paquetes estadísticos comerciales como SPSS, Statgraphics, Stata, SAS o Minitab, el `lenguaje estadístico R` (*R Core Team, 2024*) se destaca como una alternativa gratuita y de código abierto.
+
+**R** no solo es un software estadístico, sino también un lenguaje de programación. Su flexibilidad lo convierte en una herramienta poderosa para la gestión, análisis y visualización de datos, permitiendo a los usuarios personalizar su trabajo y adaptarlo a sus necesidades específicas.
 
 
-## Objetivos del curso
+::: {.callout-tip icon="false"}
+##  <br>
+
+Cabe destacar que los lenguajes de programación son **herramientas** que no reemplazan los procesos de decisiones metodológicas ni evidencian automáticamente los errores o incoherencias de los análisis.
+:::
+
 
 ## Enfoque comunicativo
 
-En este curso abordamos al lenguaje R como una lengua extranjera que usaremos para comunicarnos, por lo tanto, los estudiantes de este curso aspiran a convertirse en **usuarios** de este lenguaje en lugar de programadores (lo podrán hacer en el futuro si lo desean).
+En este curso abordaremos al lenguaje R como una lengua extranjera que usaremos, en este caso, para comunicarnos con la computadora. Por lo tanto, los estudiantes aspiran a convertirse en **usuarios** de este lenguaje en lugar de programadores (aunque podrán hacerlo en el futuro si lo desean).
 
-La idea es que comencemos a ***"decir cosas con datos"*** para profundizar más adelante las estructuras del lenguaje.
+La idea es comenzar a **"decir cosas con datos"** para profundizar más adelante en las estructuras del lenguaje.
 
-En busca de emparentar al R con un lenguaje para comunicarnos intentaremos distinguir como componentes de su estructura: una **sintaxis**, una **semántica** y una **gramática**.
+En busca de emparentar al R con un lenguaje de comunicación, intentaremos distinguir como componentes:
+
+**Sintaxis:** Las reglas que definen las combinaciones de símbolos y palabras de los objetos del lenguaje.
+
+**Semántica:** El significado de las funciones y símbolos utilizados en el lenguaje.
+
+**Gramática:** El conjunto de reglas que gobiernan la estructura de las *"oraciones"*. (con el aporte del **tidyverse** y las tuberías).
 
 ::: {.callout-tip icon="false"}
-## Nota
+## Enlace
 
-Para profundizar esta idea ver [“How to do things with words: Learning to program with a 'communicative approach'"](https://rstudio.com/resources/rstudioglobal-2021/how-to-do-things-with-words-learning-to-program-in-r-with-a-communicative-approach/) - presentación de Riva Quiroga en RStudio-2021.
+Para profundizar esta idea ver [“How to do things with words: Learning to program with a 'communicative approach'"](https://rstudio.com/resources/rstudioglobal-2021/how-to-do-things-with-words-learning-to-program-in-r-with-a-communicative-approach/) - presentación de Riva Quiroga en RStudio-2021 (*audio en inglés con subtítulos en español*).
 :::
 
-## Dificultades
+## Sobre este curso
+
+En este curso autogestionado se combinarán clases teóricas con ejercicios prácticos y actividades de análisis de datos reales. En las clases teóricas (diapositivas explicadas en videos y lecturas on-line) se presentarán conceptos del lenguaje y de gestión de datos. 
+
+En las clases prácticas, los estudiantes aplicarán los conocimientos adquiridos a través de ejercicios para posteriormente pasar a su evaluación. Estas prácticas se llevaran a cabo en forma on-line con *Google Colaboratory* y localmente a través de *RStudio*.
+
+También contaremos con tutoriales de instalación y otros recursos multimedia complementarios que nos ayudaran en el trayecto.
+
+::: {.callout-tip icon="false"}
+## A tener en cuenta...
+
+La curva de aprendizaje del lenguaje R tiene mayor dificultad que un software de ventanas, ya que el uso de R se basa en expresiones y funciones con una sintaxis estricta que hay que ejecutar desde scripts (archivos de código). Aconsejamos tener paciencia, dedicación y practicar mucho. 
+
+:::
+
+### ¿A quién está dirigido?
+
+El curso está dirigido a estudiantes, profesionales y trabajadores de la salud que buscan iniciar el desarrollo de habilidades en análisis de datos epidemiológicos con R. No se requieren conocimientos previos de programación pero si de un manejo adecuado de computadoras con sistema operativo Windows (gestión de carpetas y archivos, instalación de software, etc).
+
+
+## Bibliografía y recursos
+
+- R Core Team. (2024). R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing.
+
+- Hadley Wickham, Mine Cetinkaya-Rundel, Garrett Grolemund (2023). R for Data Science. Second Edition. *Disponible en* [https://r4ds.hadley.nz/](https://r4ds.hadley.nz/)
+
+- Gema Fernández-Avilés, José-María Montero (2024). Fundamentos de ciencia de datos con R. *Disponible en* [https://cdr-book.github.io/index.html](https://cdr-book.github.io/index.html)
+
+- Rojas-Jimenez, K. (2022). Ciencia de Datos para Ciencias Naturales. *Disponible en* [https://bookdown.org/keilor_rojas/CienciaDatos/](https://bookdown.org/keilor_rojas/CienciaDatos/)
+
+- Neale Batra et al. (2021). Manual de R para Epidemiología. *Disponible en* [https://epirhandbook.com/es/index.html](https://epirhandbook.com/es/index.html)
+
+- Tiffany Timbers, Trevor Campbell, Melissa Lee (2023). Data Science: A First Introduction. *Disponible en* [https://datasciencebook.ca/](https://datasciencebook.ca/)
+
+
+- Russell A. Poldrack (2021). Statistical Thinking for the 21st Century. *Disponible en* [https://statsthinking21.github.io/statsthinking21-core-site/index.html](https://statsthinking21.github.io/statsthinking21-core-site/index.html)
+
+- Roger D. Peng, Elizabeth Matsui (2017). The Art of Data Science. *Disponible en* [https://bookdown.org/rdpeng/artofdatascience/](https://bookdown.org/rdpeng/artofdatascience/)
+
+- Konstantinos I. Bougiouka (2024). Practical Statistics in Medicine with R. *Disponible en* [https://practical-stats-med-r.netlify.app/](https://practical-stats-med-r.netlify.app/)
+
+- Roxana Ynoub (2015). Cuestión de método. Aportes para una metodología crítica.
+
+
+Esperamos que este curso te ayude a desarrollar las habilidades necesarias para convertirte en un usuario eficaz de R para el análisis de datos epidemiológicos.
+
+¡Te invitamos a participar!
