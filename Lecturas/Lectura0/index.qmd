@@ -43,12 +43,12 @@ Cabe destacar que los lenguajes como R son **herramientas** que no reemplazan lo
 
 En este curso virtual autogestionado se combinarán clases teóricas con ejercicios prácticos y actividades de análisis de datos reales. En las clases teóricas (diapositivas explicadas en videos y lecturas on-line) se presentarán conceptos del lenguaje y de gestión de datos.
 
-En las clases prácticas, los estudiantes aplicarán los conocimientos adquiridos a través de ejercicios para posteriormente pasar a su evaluación. Estas prácticas se llevaran a cabo en forma on-line con [Google Colaboratory](https://research.google.com/colaboratory/faq.html) y localmente a través de [RStudio](https://es.wikipedia.org/wiki/RStudio).
+En las clases prácticas, los estudiantes aplicarán los conocimientos adquiridos a través de ejercicios para posteriormente pasar a su evaluación. Estas prácticas se llevaran a cabo en forma on-line con [Google Colaboratory](https://research.google.com/colaboratory/faq.html){target="_blank"} y localmente a través de [RStudio](https://es.wikipedia.org/wiki/RStudio){target="_blank"}.
 
 También contaremos con tutoriales de instalación y otros recursos multimedia complementarios que nos ayudaran en el trayecto.
 
 ::: {.callout-tip icon="false"}
-## A tener en cuenta...
+### A tener en cuenta...
 
 La curva de aprendizaje del lenguaje R tiene mayor dificultad que un software de ventanas, ya que se basa en expresiones y funciones con una sintaxis estricta que hay que ejecutar desde *scripts* (archivos de código). Aconsejamos tener paciencia, dedicación y practicar mucho.
 :::
@@ -74,28 +74,28 @@ En busca de emparentar al R con un lenguaje de comunicación, intentaremos disti
 ::: {.callout-tip icon="false"}
 ## Enlace
 
-Para profundizar esta idea ver ["How to do things with words: Learning to program with a 'communicative approach'"](https://rstudio.com/resources/rstudioglobal-2021/how-to-do-things-with-words-learning-to-program-in-r-with-a-communicative-approach/) - presentación de Riva Quiroga en RStudio-2021 (*audio en inglés con subtítulos en español*).
+Para profundizar esta idea ver ["How to do things with words: Learning to program with a 'communicative approach'"](https://rstudio.com/resources/rstudioglobal-2021/how-to-do-things-with-words-learning-to-program-in-r-with-a-communicative-approach/){target="_blank"} - presentación de Riva Quiroga en RStudio-2021 (*audio en inglés con subtítulos en español*).
 :::
 
 ## Bibliografía y recursos
 
 -   R Core Team. (2024). R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing.
 
--   Hadley Wickham, Mine Cetinkaya-Rundel, Garrett Grolemund (2023). R for Data Science. Second Edition. *Disponible en* <https://r4ds.hadley.nz/>
+-   Hadley Wickham, Mine Cetinkaya-Rundel, Garrett Grolemund (2023). R for Data Science. Second Edition. *Disponible en* <https://r4ds.hadley.nz/>{target="_blank"}
 
--   Gema Fernández-Avilés, José-María Montero (2024). Fundamentos de ciencia de datos con R. *Disponible en* <https://cdr-book.github.io/index.html>
+-   Gema Fernández-Avilés, José-María Montero (2024). Fundamentos de ciencia de datos con R. *Disponible en* <https://cdr-book.github.io/index.html>{target="_blank"}
 
--   Rojas-Jimenez, K. (2022). Ciencia de Datos para Ciencias Naturales. *Disponible en* <https://bookdown.org/keilor_rojas/CienciaDatos/>
+-   Rojas-Jimenez, K. (2022). Ciencia de Datos para Ciencias Naturales. *Disponible en* <https://bookdown.org/keilor_rojas/CienciaDatos/>{target="_blank"}
 
--   Neale Batra et al. (2021). Manual de R para Epidemiología. *Disponible en* <https://epirhandbook.com/es/index.html>
+-   Neale Batra et al. (2021). Manual de R para Epidemiología. *Disponible en* <https://epirhandbook.com/es/index.html>{target="_blank"}
 
--   Tiffany Timbers, Trevor Campbell, Melissa Lee (2023). Data Science: A First Introduction. *Disponible en* <https://datasciencebook.ca/>
+-   Tiffany Timbers, Trevor Campbell, Melissa Lee (2023). Data Science: A First Introduction. *Disponible en* <https://datasciencebook.ca/>{target="_blank"}
 
--   Russell A. Poldrack (2021). Statistical Thinking for the 21st Century. *Disponible en* <https://statsthinking21.github.io/statsthinking21-core-site/index.html>
+-   Russell A. Poldrack (2021). Statistical Thinking for the 21st Century. *Disponible en* <https://statsthinking21.github.io/statsthinking21-core-site/index.html>{target="_blank"}
 
--   Roger D. Peng, Elizabeth Matsui (2017). The Art of Data Science. *Disponible en* <https://bookdown.org/rdpeng/artofdatascience/>
+-   Roger D. Peng, Elizabeth Matsui (2017). The Art of Data Science. *Disponible en* <https://bookdown.org/rdpeng/artofdatascience/>{target="_blank"}
 
--   Konstantinos I. Bougiouka (2024). Practical Statistics in Medicine with R. *Disponible en* <https://practical-stats-med-r.netlify.app/>
+-   Konstantinos I. Bougiouka (2024). Practical Statistics in Medicine with R. *Disponible en* <https://practical-stats-med-r.netlify.app/>{target="_blank"}
 
 -   Roxana Ynoub (2015). Cuestión de método. Aportes para una metodología crítica.
 
