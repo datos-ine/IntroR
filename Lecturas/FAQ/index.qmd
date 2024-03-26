@@ -1,0 +1,58 @@
+---
+title: "Preguntas frecuentes"
+format:
+  html:
+    html-math-method: katex
+    css: style.css
+    smooth-scroll: true
+theme: lumen
+lightbox: true
+editor: visual
+---
+
+### 1. ¿Qué es un curso autogestionado?
+
+Un curso autogestionado te permite aprender a tu propio ritmo mediante la lectura y
+la realización de actividades guiadas. Las evaluaciones son corregidas en línea, lo que te permite conocer tus resultados de manera inmediata.
+
+### 2. ¿Cuánto tiempo tengo para realizar el curso?
+
+El curso se encuentra disponible en el sitio web institucional, podrás realizarlo en el tiempo que dispongas y desees.
+
+### 3. ¿En qué horario puedo ingresar al aula?
+
+El aula está disponible las 24 horas del día. Puedes acceder según tu disponibilidad y avanzar a tu propio ritmo.
+
+### 4. ¿Cómo puedo corregir datos personales incorrectos?
+
+Puedes actualizar tus datos personales en tu perfil. Haz clic en tu nombre en la esquina superior derecha y selecciona **"perfil"**. Desde allí, puedes editar tus datos o cambiar tu correo electrónico.
+
+### 5. No puedo ver una sección o recurso en el curso. ¿Qué debo hacer?
+
+Algunos cursos requieren que completes ciertas actividades o lecturas antes de
+avanzar. Si tienes problemas al cargar recursos, verifica tu conexión a Internet, contacta al soporte técnico de tu organización y/o contacta con [aulas@ine.gov.ar](aulas@ine.gov.ar)
+
+### 6. No puedo visualizar un video. ¿Qué debo hacer?
+
+Los videos se alojan en *YouTube*. Si no puedes acceder, podría haber bloqueos en tu
+dispositivo o red. Contacta al administrador de tu red o equipo de soporte de tu organización para solucionar el problema.
+
+### 7. ¿Hay límites en los intentos para actividades y evaluaciones?
+
+No, recuerda que debes aprobar cada evaluación para poder continuar.
+
+### 8. ¿Puedo ingresar a la evaluación final de un curso ya finalizado?
+
+Si, mientras el curso esté disponible en nuestro sitio web.
+
+### 9. No puedo descargar el certificado. ¿Qué debo hacer?
+
+Una vez aprobada la evaluación final, puedes descargar el certificado desde la sección correspondiente. Ten en cuenta que debes tener aprobadas todas las actividades evaluativas previstas incluida la realización de la encuesta de opinión final.
+
+### 10. Los datos en mi certificado son incorrectos. ¿Cómo puedo corregirlos?
+
+Debes modificar tu perfil. Haz clic en tu nombre en la esquina superior derecha y selecciona **"perfil"**. Desde allí, puedes editar tus datos. El nombre y apellido en tu perfil aparecerán en el certificado final.
+
+### 11. ¿Hasta cuándo puede descargar el certificado del curso?
+
+El certificado del curso podrá ser descargado mientras el curso se encuentre disponible en nuestro sitio web. Se recomienda bajarlo y guardarlo inmediatamente luego de finalizar el curso.
