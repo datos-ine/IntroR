@@ -41,7 +41,7 @@ Cabe destacar que los lenguajes como R son **herramientas** que no reemplazan lo
 
 ## Sobre este curso
 
-En este curso virtual autogestionado se combinarán clases teóricas con ejercicios prácticos y actividades de análisis de datos reales. En las clases teóricas (diapositivas explicadas en videos y lecturas on-line) se presentarán conceptos del lenguaje y de gestión de datos.
+Este es un curso virtual autogestionado donde se combinarán clases teóricas con ejercicios prácticos y actividades de análisis de datos reales. En las clases teóricas (diapositivas explicadas en videos y lecturas on-line) se presentarán conceptos del lenguaje y de gestión de datos.
 
 En las clases prácticas, los estudiantes aplicarán los conocimientos adquiridos a través de ejercicios para posteriormente pasar a su evaluación. Estas prácticas se llevaran a cabo en forma on-line con [Google Colaboratory](https://research.google.com/colaboratory/faq.html){target="_blank"} y localmente a través de [RStudio](https://es.wikipedia.org/wiki/RStudio){target="_blank"}.
 
