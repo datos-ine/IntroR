@@ -50,12 +50,12 @@ También contaremos con tutoriales de instalación y otros recursos multimedia c
 ::: {.callout-tip icon="false"}
 ### A tener en cuenta...
 
-La curva de aprendizaje del lenguaje R tiene mayor dificultad que un software de ventanas, ya que se basa en expresiones y funciones con una sintaxis estricta que hay que ejecutar desde *scripts* (archivos de código). Aconsejamos tener paciencia, dedicación y practicar mucho.
+La curva de aprendizaje del lenguaje R tiene mayor dificultad que un software de ventanas, ya que se basa en expresiones y funciones con una sintaxis estricta que hay que ejecutar desde *scripts* (archivos de código). Aconsejamos tener paciencia, dedicación y mucha practica.
 :::
 
 #### ¿A quién está dirigido?
 
-El curso está dirigido a estudiantes, profesionales y trabajadores de la salud que buscan iniciar el desarrollo de habilidades en análisis de datos epidemiológicos con R. No se requieren conocimientos previos de programación pero si manejo adecuado de computadoras con sistema operativo Windows (gestión de carpetas y archivos, instalación de software, etc).
+El curso está dirigido a estudiantes, profesionales y trabajadores integrantes de equipos de salud que buscan iniciar el desarrollo de habilidades en análisis de datos epidemiológicos con R. No se requieren conocimientos previos de programación pero si manejo adecuado de computadoras con sistema operativo Windows (gestión de carpetas y archivos, instalación de software, etc).
 
 #### Enfoque comunicativo
 
