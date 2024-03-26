@@ -12,12 +12,12 @@ lightbox: true
 editor: visual
 ---
 
-::: {.callout-tip icon=false}
+::: {.callout-tip icon="false"}
 ## Objetivos de aprendizaje
 
-- Datos
-- Datos
-- Datos
+-   Datos
+-   Datos
+-   Datos
 :::
 
 ## Qué es R?
@@ -47,3 +47,37 @@ Se puede instalar en diferentes sistemas operativos como Linux, Windows y Mac. E
 **R es Open Source y se distribuye bajo licencia GNU - GPL**
 
 Esto quiere decir que se distribuye gratuitamente bajo licencia GNU (General Public License) -- GPL y que los usuarios tienen la libertad de usar, estudiar, compartir (copiar) y modificar el software.
+
+## Breve historia del lenguaje
+
+R es un sistema que fue desarrollado a partir del *lenguaje S* que a su
+vez tiene sus orígenes en Bell Labs de la AT&T (actualmente Lucent
+Technologies) de mediados de la década del '70. Posteriormente, S fue
+vendido y dio origen a una versión propietaria denominada S-Plus que es
+comercializada por Insighful Corporation.
+
+En 1995 dos profesores de estadística de la Universidad de Auckland, en
+Nueva Zelanda [Ross Ihaka](https://en.wikipedia.org/wiki/Ross_Ihaka) y [Robert Gentleman](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)), iniciaron el ["Proyecto
+R"](https://en.wikipedia.org/wiki/R_(programming_language)), con la intención de desarrollar un programa estadístico inspirado en el lenguaje S pero de dominio público.
+
+Aunque se dice que R es un dialecto de S existen diferencias importantes
+en el diseño de ambos lenguajes.
+
+El software está desarrollado en lenguaje C++ con algunas rutinas
+agregadas en Fortran) y su nombre se debe a la letra con la que inician
+los nombres de pila de sus autores (Ross y Robert).
+
+Actualmente R es mantenido por un grupo internacional de desarrolladores
+voluntarios denominado [Core Development Team](https://www.r-project.org/contributors.html).
+
+## Ventajas de R
+
+No es posible enunciar un único motivo para aprender y utilizar el lenguaje. Además de las características de cualquier lenguaje de código donde obtenemos replicabilidad, eficiencia y control de nuestro trabajo de análisis podemos enumerar una lista de ventajas:
+
+- Es de gratis y de código abierto (FOSS - Free and Open Source Software).
+- Es multiplataforma.
+- Es modular mediante el uso de paquetes que permiten cubrir un gran abanico de actividades. 
+- Se ha alcanzado una masa crítica de usuarios que lo hace confiable y esta amplia comunidad de usuarios proporciona interminables recursos.
+- Posee características de *“investigación reproducible”*.
+
+
