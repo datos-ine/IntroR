@@ -75,6 +75,7 @@ voluntarios denominado [Core Development Team](https://www.r-project.org/contrib
 No es posible enunciar un único motivo para aprender y utilizar el lenguaje. Además de las características de cualquier lenguaje de código donde obtenemos replicabilidad, eficiencia y control de nuestro trabajo de análisis podemos enumerar una lista de ventajas:
 
 - Es de gratis y de código abierto (FOSS - Free and Open Source Software).
+- Fue creado con fines estadísticas a diferencia de otros lenguajes.
 - Es multiplataforma.
 - Es modular mediante el uso de paquetes que permiten cubrir un gran abanico de actividades. 
 - Se ha alcanzado una masa crítica de usuarios que lo hace confiable y esta amplia comunidad de usuarios proporciona interminables recursos.

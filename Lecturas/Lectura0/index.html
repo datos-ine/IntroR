@@ -33,9 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="index_files/libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="index_files/libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="index_files/libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <style>html{ scroll-behavior: smooth; }</style>
 
 
@@ -84,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="la-era-de-los-datos">La era de los datos</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="datos.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="datos.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+<p><img src="datos.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p>Vivimos en la era digital, inmersos en un universo tecnológico que avanza a un ritmo sin precedentes en la historia de la humanidad. La política de datos abiertos, impulsada por gobiernos, empresas y organizaciones no gubernamentales, junto con estos avances digitales exponenciales, generan un volumen enorme de datos que se publican a diario.</p>
@@ -92,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="ciencia-de-datos" class="level2">
 <h2 class="anchored" data-anchor-id="ciencia-de-datos">Ciencia de datos</h2>
-<p>La ciencia de datos emerge como una disciplina clave para abordar este desafío. Combinando el método científico, la estadística, las matemáticas y la informática, permite obtener valor de los datos y transformarlos en conocimiento útil.</p>
+<p>La ciencia de datos emerge como una disciplina clave para abordar este desafío. Combinando el método científico, la estadística y la informática, permite obtener valor de los datos y transformarlos en conocimiento útil.</p>
 <p>Su naturaleza <em>transdisciplinaria</em> la convierte en una herramienta poderosa adaptable a diversos campos, adoptando los paradigmas y constructos propios de cada disciplina. En el caso de la epidemiología, la ciencia de datos abre nuevas posibilidades para el tratamiento y análisis de datos que aporta a la vigilancia e investigación en salud.</p>
 </section>
 <section id="r-para-ciencia-de-datos-en-epidemiología" class="level2">
@@ -565,31 +562,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","openEffect":"zoom","closeEffect":"zoom","loop":false,"descPosition":"bottom"});
-window.onload = () => {
-  lightboxQuarto.on('slide_before_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    const href = trigger.getAttribute('href');
-    if (href !== null) {
-      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-      if (imgEl !== null) {
-        const srcAttr = imgEl.getAttribute("src");
-        if (srcAttr && srcAttr.startsWith("data:")) {
-          slideConfig.href = srcAttr;
-        }
-      }
-    } 
-  });
-
-  lightboxQuarto.on('slide_after_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    if (window.Quarto?.typesetMath) {
-      window.Quarto.typesetMath(slideNode);
-    }
-  });
-
-};
-          </script>
 
 
 

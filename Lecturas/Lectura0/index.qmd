@@ -9,7 +9,6 @@ format:
     css: style.css
     smooth-scroll: true
 theme: lumen
-lightbox: true
 editor: visual
 ---
 
@@ -23,7 +22,7 @@ Sin embargo, la disponibilidad de datos no asegura su aprovechamiento, ni la ext
 
 ## Ciencia de datos
 
-La ciencia de datos emerge como una disciplina clave para abordar este desafío. Combinando el método científico, la estadística, las matemáticas y la informática, permite obtener valor de los datos y transformarlos en conocimiento útil.
+La ciencia de datos emerge como una disciplina clave para abordar este desafío. Combinando el método científico, la estadística y la informática, permite obtener valor de los datos y transformarlos en conocimiento útil.
 
 Su naturaleza *transdisciplinaria* la convierte en una herramienta poderosa adaptable a diversos campos, adoptando los paradigmas y constructos propios de cada disciplina. En el caso de la epidemiología, la ciencia de datos abre nuevas posibilidades para el tratamiento y análisis de datos que aporta a la vigilancia e investigación en salud.
 
@@ -81,21 +80,21 @@ Para profundizar esta idea ver ["How to do things with words: Learning to progra
 
 -   R Core Team. (2024). R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing.
 
--   Hadley Wickham, Mine Cetinkaya-Rundel, Garrett Grolemund (2023). R for Data Science. Second Edition. *Disponible en* <https://r4ds.hadley.nz/>{target="_blank"}
+-   Hadley Wickham, Mine Cetinkaya-Rundel, Garrett Grolemund (2023). R for Data Science. Second Edition. *Disponible en* [https://r4ds.hadley.nz/](https://r4ds.hadley.nz/){target="_blank"}
 
--   Gema Fernández-Avilés, José-María Montero (2024). Fundamentos de ciencia de datos con R. *Disponible en* <https://cdr-book.github.io/index.html>{target="_blank"}
+-   Gema Fernández-Avilés, José-María Montero (2024). Fundamentos de ciencia de datos con R. *Disponible en* [https://cdr-book.github.io/index.html](https://cdr-book.github.io/index.html){target="_blank"}
 
--   Rojas-Jimenez, K. (2022). Ciencia de Datos para Ciencias Naturales. *Disponible en* <https://bookdown.org/keilor_rojas/CienciaDatos/>{target="_blank"}
+-   Rojas-Jimenez, K. (2022). Ciencia de Datos para Ciencias Naturales. *Disponible en* [https://bookdown.org/keilor_rojas/CienciaDatos/](https://bookdown.org/keilor_rojas/CienciaDatos/){target="_blank"}
 
--   Neale Batra et al. (2021). Manual de R para Epidemiología. *Disponible en* <https://epirhandbook.com/es/index.html>{target="_blank"}
+-   Neale Batra et al. (2021). Manual de R para Epidemiología. *Disponible en* [https://epirhandbook.com/es/index.html](https://epirhandbook.com/es/index.html){target="_blank"}
 
--   Tiffany Timbers, Trevor Campbell, Melissa Lee (2023). Data Science: A First Introduction. *Disponible en* <https://datasciencebook.ca/>{target="_blank"}
+-   Tiffany Timbers, Trevor Campbell, Melissa Lee (2023). Data Science: A First Introduction. *Disponible en* [https://datasciencebook.ca/](https://datasciencebook.ca/){target="_blank"}
 
--   Russell A. Poldrack (2021). Statistical Thinking for the 21st Century. *Disponible en* <https://statsthinking21.github.io/statsthinking21-core-site/index.html>{target="_blank"}
+-   Russell A. Poldrack (2021). Statistical Thinking for the 21st Century. *Disponible en* [https://statsthinking21.github.io/statsthinking21-core-site/index.html](https://statsthinking21.github.io/statsthinking21-core-site/index.html){target="_blank"}
 
--   Roger D. Peng, Elizabeth Matsui (2017). The Art of Data Science. *Disponible en* <https://bookdown.org/rdpeng/artofdatascience/>{target="_blank"}
+-   Roger D. Peng, Elizabeth Matsui (2017). The Art of Data Science. *Disponible en* [https://bookdown.org/rdpeng/artofdatascience/](https://bookdown.org/rdpeng/artofdatascience/){target="_blank"}
 
--   Konstantinos I. Bougiouka (2024). Practical Statistics in Medicine with R. *Disponible en* <https://practical-stats-med-r.netlify.app/>{target="_blank"}
+-   Konstantinos I. Bougiouka (2024). Practical Statistics in Medicine with R. *Disponible en* [https://practical-stats-med-r.netlify.app/](https://practical-stats-med-r.netlify.app/){target="_blank"}
 
 -   Roxana Ynoub (2015). Cuestión de método. Aportes para una metodología crítica.
 
